@@ -18,7 +18,7 @@ export default {
 <style>
 .header-link {
   color: black;
-  text-decoration: none; /* no underline */
+  text-decoration: none; /* No underline */
 }
 
 .break-word {
